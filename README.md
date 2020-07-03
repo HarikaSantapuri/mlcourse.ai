@@ -12,9 +12,9 @@
 
 </div>
   
-[mlcourse.ai](https://mlcourse.ai) is an open Machine Learning course by [OpenDataScience](https://ods.ai/en/). The course is designed to perfectly balance theory and practice. You can take part in several Kaggle Inclass competitions held during the course. From spring 2017 to fall 2019, 6 sessions of mlcourse.ai took place - 26k participants applied, 10k converted to passing the first assignment, about 1500 participants finished the course. Currently, the course is in self-paced mode. Check out a thorough [Roadmap](https://mlcourse.ai/roadmap) guiding you through the self-paced mlcourse.ai.
+[mlcourse.ai](https://mlcourse.ai) is an open Machine Learning course by [OpenDataScience](https://ods.ai). The course is designed to perfectly balance theory and practice. You can take part in several Kaggle Inclass competitions held during the course. From spring 2017 to fall 2019, 6 sessions of mlcourse.ai took place - 26k participants applied, 10k converted to passing the first assignment, about 1500 participants finished the course. Currently, the course is in self-paced mode. Check out a thorough [Roadmap](https://mlcourse.ai/roadmap) guiding you through the self-paced mlcourse.ai.
 
-Mirrors (:uk:-only): [mlcourse.ai](https://mlcourse.ai) (main site), [Kaggle Dataset](https://www.kaggle.com/kashnitsky/mlcourse) (same notebooks as Notebooks)
+Mirrors (:uk:-only): [mlcourse.ai](https://mlcourse.ai) (main site), [Kaggle Dataset](https://www.kaggle.com/kashnitsky/mlcourse) (same notebooks as Kaggle Notebooks)
 
 ### Self-paced passing
 The [Roadmap](https://mlcourse.ai/roadmap) will guide you through 11 weeks of mlcourse.ai. For each week, from Pandas to Gradient Boosting, instructions are given on what artciles to read, lectures to watch, what assignments to accomplish. 
@@ -66,7 +66,7 @@ Introduction, [video](https://www.youtube.com/watch?v=DrohHdQa8u8), [slides](htt
 2. DotA 2 winner prediction. [Kaggle Inclass](https://www.kaggle.com/c/mlcourse-dota2-win-prediction)
 
 ### Community
-Discussions are held in the **#mlcourse_ai** channel of the [OpenDataScience (ods.ai)](https://ods.ai/en/) Slack team.
+Discussions are held in the **#mlcourse_ai** channel of the [OpenDataScience (ods.ai)](https://ods.ai) Slack team.
 
 *The course is free but you can support organizers by making a pledge on [Patreon](https://www.patreon.com/ods_mlcourse) (monthly support) or a one-time payment on [Ko-fi](https://ko-fi.com/mlcourse_ai). Thus you'll foster the spread of Machine Learning in the world!*
 
